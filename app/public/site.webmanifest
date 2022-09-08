@@ -1,0 +1,29 @@
+{
+  "name": "Neverland Heardle - That (G)I-DLE song intros game",
+  "short_name": "Nevie Heardle",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/8b25cba0-e391-4887-a678-9473bf930ead/idle.webp?v=1649389601734",
+      "sizes": "192x192",
+      "type": "image/WEBP"
+    },
+    {
+      "src": "https://cdn.glitch.global/8b25cba0-e391-4887-a678-9473bf930ead/idle.webp?v=1649389601734",
+      "sizes": "512x512",
+      "type": "image/WEBP"
+    },
+    {
+      "src": "https://cdn.glitch.global/8b25cba0-e391-4887-a678-9473bf930ead/idle.webp?v=1649389601734",
+      "sizes": "32x32",
+      "type": "image/WEBP"
+    },
+    {
+      "src": "https://cdn.glitch.global/8b25cba0-e391-4887-a678-9473bf930ead/idle.webp?v=1649389601734",
+      "sizes": "16x16",
+      "type": "image/WEBP"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
