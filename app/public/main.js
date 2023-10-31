@@ -8636,6 +8636,10 @@ var app = (function () {
         "(G)I-DLE - Lucid",
         "(G)I-DLE - Peter Pan",
         "(G)I-DLE - I DO",
+        "(G)I-DLE - I Want That",
+        "(G)I-DLE - Tall Trees",
+        "(G)I-DLE - Flip It",
+        "(G)I-DLE - Eyes Roll",
         "MINNIE, WENGIE - EMPIRE",
         "MINNIE - Getaway",
         "MINNIE - In The Novel",
@@ -8729,6 +8733,10 @@ var app = (function () {
               url: "https://soundcloud.com/ffuts-kk/miyeon-my-destiny-remake",
               answer: "MIYEON - My Destiny",
             },
+            {
+                url: "https://soundcloud.com/gi-dle/track-2",
+                answer: "(G)I-DLE - I Want That",
+              },
             {
               url: "https://soundcloud.com/gi-dle/peter-pan",
               answer: "(G)I-DLE - Peter Pan",
@@ -8934,6 +8942,10 @@ var app = (function () {
               answer: "JEON SOYEON - BEAM BEAM",
             },
             {
+                url: "https://soundcloud.com/gi-dle/track-5",
+                answer: "(G)I-DLE - Tall Trees",
+              },
+            {
               url: "https://soundcloud.com/l2shareost42/miyeon-g-idle-someday-moonshine-ost-part-8",
               answer: "MIYEON - Someday",
             },
@@ -9042,6 +9054,10 @@ var app = (function () {
               answer: "MIYEON - My Destiny",
             },
             {
+                url: "https://soundcloud.com/gi-dle/track-3",
+                answer: "(G)I-DLE - Eyes Roll",
+              },
+            {
               url: "https://soundcloud.com/erl8jj3ogszh/not-cinderella-g-i-dle-yuqi",
               answer: "YUQI - Not Cinderella",
             },
@@ -9109,6 +9125,10 @@ var app = (function () {
               url: "https://soundcloud.com/gi-dle/latata",
               answer: "(G)I-DLE - LATATA",
             },
+            {
+                url: "https://soundcloud.com/gi-dle/track-4",
+                answer: "(G)I-DLE - Flip It",
+              },
             {
               url: "https://soundcloud.com/miyeon-music/te-amo",
               answer: "MIYEON - TE AMO",
