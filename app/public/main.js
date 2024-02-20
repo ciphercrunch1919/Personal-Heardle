@@ -8640,6 +8640,14 @@ var app = (function () {
         "(G)I-DLE - Tall Trees",
         "(G)I-DLE - Flip It",
         "(G)I-DLE - Eyes Roll",
+        "(G)I-DLE - Super Lady",
+        "(G)I-DLE - Revenge",
+        "(G)I-DLE - Doll",
+        "(G)I-DLE - Vision",
+        "(G)I-DLE - 7Days",
+        "(G)I-DLE - Fate",
+        "(G)I-DLE - Rollie",
+        "(G)I-DLE - Wife",
         "MINNIE, WENGIE - EMPIRE",
         "MINNIE - Getaway",
         "MINNIE - In The Novel",
@@ -8710,6 +8718,10 @@ var app = (function () {
               answer: "MIYEON - The Painted On The Moonlight",
             },
             {
+              url: "https://soundcloud.com/gi-dle/revenge",
+              answer: "(G)I-DLE - Revenge",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/sculpture",
               answer: "(G)I-DLE - Sculpture",
             },
@@ -8737,6 +8749,10 @@ var app = (function () {
                 url: "https://soundcloud.com/gi-dle/track-2",
                 answer: "(G)I-DLE - I Want That",
               },
+            {
+              url: "https://soundcloud.com/gi-dle/super-lady",
+              answer: "(G)I-DLE - Super Lady",
+            },
             {
               url: "https://soundcloud.com/gi-dle/peter-pan",
               answer: "(G)I-DLE - Peter Pan",
@@ -8766,6 +8782,10 @@ var app = (function () {
               answer: "JEON SOYEON - Jelly",
             },
             {
+              url: "https://soundcloud.com/gi-dle/doll",
+              answer: "(G)I-DLE - Doll",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/luv-u",
               answer: "(G)I-DLE - Luv U",
             },
@@ -8790,6 +8810,10 @@ var app = (function () {
               answer: "MIYEON - Drive",
             },
             {
+              url: "https://soundcloud.com/gi-dle/fate",
+              answer: "(G)I-DLE - Fate",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/polaroid",
               answer: "(G)I-DLE - POLAROID",
             },
@@ -8800,6 +8824,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/l2share150/jeon-so-yeon-fire-with-brand-new-child-k-l-w-c",
               answer: "JEON SOYEON - Fire",
+            },
+            {
+              url: "https://soundcloud.com/gi-dle/wife",
+              answer: "(G)I-DLE - Wife",
             },
             {
               url: "https://soundcloud.com/pink-l-81096981/jeon-soyeon-g-i-dle-a-little-lovin",
@@ -8822,6 +8850,10 @@ var app = (function () {
               answer: "(G)I-DLE - ALREADY",
             },
             {
+              url: "https://soundcloud.com/gi-dle/rollie",
+              answer: "(G)I-DLE - Rollie",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/maze",
               answer: "(G)I-DLE - MAZE",
             },
@@ -8840,6 +8872,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/paradise",
               answer: "(G)I-DLE - Paradise",
+            },
+            {
+              url: "https://soundcloud.com/gi-dle/vision",
+              answer: "(G)I-DLE - Vision",
             },
             {
               url: "https://soundcloud.com/roya-jafarli/ravi-ani-ft-soyeon-g-i-dle",
@@ -8868,6 +8904,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/hear-me",
               answer: "(G)I-DLE - Hear me",
+            },
+            {
+              url: "https://soundcloud.com/gi-dle/7days",
+              answer: "(G)I-DLE - 7Days",
             },
             {
               url: "https://soundcloud.com/gi-dle/whats-your-name",
