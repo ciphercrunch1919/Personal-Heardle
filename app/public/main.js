@@ -8648,11 +8648,22 @@ var app = (function () {
         "(G)I-DLE - Fate",
         "(G)I-DLE - Rollie",
         "(G)I-DLE - Wife",
+        "(G)I-DLE - Klaxon",
+        "(G)I-DLE - Last Forever",
+        "(G)I-DLE - Bloom",
+        "(G)I-DLE - Neverland",
+        "(G)I-DLE - Abracadabra",
         "MINNIE, WENGIE - EMPIRE",
         "MINNIE - Getaway",
         "MINNIE - In The Novel",
         "MINNIE - Saying Hello",
         "MINNIE, ANNE MARIE - Expectations",
+        "MINNIE, LOCO - NOT OK",
+        "MINNIE - Like A Dream",
+        "MINNIE, HEIZE - Thief",
+        "MINNIE - Melted",
+        "MINNIE - PINK YOUR MOMENT",
+        "MINNIE - Timing",
         "MIYEON, MINNIE - We Already Fell In Love",
         "MINNIE, F.HERO x URBOYTJ - MONEY HONEY",
         "MIYEON - Dreaming About You",
@@ -8671,6 +8682,9 @@ var app = (function () {
         "MIYEON - Charging",
         "MIYEON - Rain",
         "MIYEON - The Painted On The Moonlight",
+        "MIYEON - You and I",
+        "MIYEON - Numb",
+        "MIYEON - Sweet Dream",
         "MIYEON, YUQI - How To Twerk",
         "JEON SOYEON, NADA - Scary",
         "JEON SOYEON - Jelly",
@@ -8694,9 +8708,21 @@ var app = (function () {
         "JEON SOYEON, myunDo - Smile",
         "JEON SOYEON, SUPERBEE - Day of a kid",
         "JEON SOYEON - A-MOONO-KE (I'm OK)",
+        "JEON SOYEON, WINTER, LIZ - NOBODY",
+        "YENA, YUQI - Hate Rodrigo",
         "YUQI - Giant",
         "YUQI - Bonnie & Clyde",
         "YUQI - Not Cinderella",
+        "YUQI - FREAK",
+        "YUQI - My Way",
+        "YUQI, pH-1 - Drink It Up",
+        "YUQI - Red Rover",
+        "YUQI, LEXIE LIU - On Clap",
+        "YUQI, MINNIE - Everytime",
+        "YUQI - Could It Be",
+        "YUQI, ALAN WALKER, JVKE - Fire!",
+        "YUQI - Making Waves",
+        "YUQI - Black Space",
       ]),
       On = {
         subscribe: ue(
@@ -8708,6 +8734,14 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/change",
               answer: "(G)I-DLE - Change",
+            },
+            {
+              url: "https://soundcloud.com/riize-95198963/soyeon-x-winter-x-liz-nobody-1",
+              answer: "JEON SOYEON, WINTER, LIZ - NOBODY",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/freak",
+              answer: "YUQI - FREAK",
             },
             {
               url: "https://soundcloud.com/gi-dle/liar",
@@ -8730,6 +8764,10 @@ var app = (function () {
               answer: "(G)I-DLE - Where is love",
             },
             {
+              url: "https://soundcloud.com/yuqi-sc/making-waves-the-song-of-the",
+              answer: "YUQI - Making Waves",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/allergy",
               answer: "(G)I-DLE - Allergy",
             },
@@ -8742,6 +8780,14 @@ var app = (function () {
               answer: "(G)I-DLE - DON'T TEXT ME",
             },
             {
+              url: "https://soundcloud.com/loco95721/not-ok-feat-minnie",
+              answer: "MINNIE, LOCO - NOT OK",
+            },
+            {
+              url: "https://soundcloud.com/gi-dle/abracadabra",
+              answer: "(G)I-DLE - Abracadabra",
+            },
+            {
               url: "https://soundcloud.com/ffuts-kk/miyeon-my-destiny-remake",
               answer: "MIYEON - My Destiny",
             },
@@ -8752,6 +8798,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/super-lady",
               answer: "(G)I-DLE - Super Lady",
+            },
+            {
+              url: "https://soundcloud.com/dreamglxw/like-a-dream-lovely-runner-ost-minnie",
+              answer: "MINNIE - Like A Dream",
             },
             {
               url: "https://soundcloud.com/gi-dle/peter-pan",
@@ -8786,6 +8836,10 @@ var app = (function () {
               answer: "(G)I-DLE - Doll",
             },
             {
+              url: "https://soundcloud.com/heize-sc/thief-feat-minnie",
+              answer: "MINNIE, HEIZE - Thief",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/luv-u",
               answer: "(G)I-DLE - Luv U",
             },
@@ -8814,6 +8868,10 @@ var app = (function () {
               answer: "(G)I-DLE - Fate",
             },
             {
+              url: "https://soundcloud.com/yuqi-sc/my-way",
+              answer: "YUQI - My Way",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/polaroid",
               answer: "(G)I-DLE - POLAROID",
             },
@@ -8828,6 +8886,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/wife",
               answer: "(G)I-DLE - Wife",
+            },
+            {
+              url: "https://soundcloud.com/pink-l-81096981/minnie-gi-dle-melted",
+              answer: "MINNIE - Melted",
             },
             {
               url: "https://soundcloud.com/pink-l-81096981/jeon-soyeon-g-i-dle-a-little-lovin",
@@ -8846,8 +8908,20 @@ var app = (function () {
               answer: "MIYEON - Charging",
             },
             {
+              url: "https://soundcloud.com/gi-dle/last-forever",
+              answer: "(G)I-DLE - Last Forever",
+            },
+            {
+              url: "https://soundcloud.com/minnie20065/pink-your-moment",
+              answer: "MINNIE - PINK YOUR MOMENT",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/already",
               answer: "(G)I-DLE - ALREADY",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/drink-it-up-feat-ph-1",
+              answer: "YUQI, pH-1 - Drink It Up",
             },
             {
               url: "https://soundcloud.com/gi-dle/rollie",
@@ -8862,12 +8936,20 @@ var app = (function () {
               answer: "(G)I-DLE - Oh my god",
             },
             {
+              url: "https://soundcloud.com/minnie20065/timing",
+              answer: "MINNIE - Timing",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/light-my-fire",
               answer: "(G)I-DLE - Light My Fire",
             },
             {
               url: "https://soundcloud.com/ciphercrunch2120/gi-dle-miyeon-you-were-my-breath",
               answer: "MIYEON - 'You Were My Breath' (너는 나의 숨이였다)",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/everytime-feat-minnie",
+              answer: "YUQI, MINNIE - Everytime",
             },
             {
               url: "https://soundcloud.com/gi-dle/paradise",
@@ -8910,6 +8992,14 @@ var app = (function () {
               answer: "(G)I-DLE - 7Days",
             },
             {
+              url: "https://soundcloud.com/yena57148/hate-rodrigo-feat-yuqi",
+              answer: "YENA, YUQI - Hate Rodrigo",
+            },
+            {
+              url: "https://soundcloud.com/miyeon-music/you-and-i",
+              answer: "MIYEON - You and I",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/whats-your-name",
               answer: "(G)I-DLE - What's Your Name",
             },
@@ -8922,6 +9012,10 @@ var app = (function () {
               answer: "MIYEON - Dreaming About You",
             },
             {
+              url: "https://soundcloud.com/gi-dle/klaxon",
+              answer: "(G)I-DLE - Klaxon",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/where-is-love",
               answer: "(G)I-DLE - Where is love",
             },
@@ -8932,6 +9026,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/iew-v-828617851/seulgi-sinb-chung-ha-soyeon",
               answer: "JEON SOYEON, SEULGI, CHUNG HA, SinB - Wow Thing",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/could-it-be",
+              answer: "YUQI - Could It Be",
             },
             {
               url: "https://soundcloud.com/gi-dle/give-me-your",
@@ -8954,6 +9052,10 @@ var app = (function () {
               answer: "JEON SOYEON - Quit",
             },
             {
+              url: "https://soundcloud.com/yuqi-sc/on-clap-feat-lexie-liu",
+              answer: "YUQI, LEXIE LIU - On Clap",
+            },
+            {
               url: "https://soundcloud.com/kpopaudios/track-3-scary-nada-soyeon-prod-kush",
               answer: "JEON SOYEON, NADA - Scary",
             },
@@ -8974,8 +9076,16 @@ var app = (function () {
               answer: "(G)I-DLE - Put It Straight - Nightmare Version",
             },
             {
+              url: "https://soundcloud.com/alanwalker/alan-walker-yuqi-of-gi-dle-jvke-fire",
+              answer: "YUQI, ALAN WALKER, JVKE - Fire!",
+            },
+            {
               url: "https://soundcloud.com/k2nblogdotcom4/gi-dle-show",
               answer: "(G)I-DLE - Show",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/black-space",
+              answer: "YUQI - Black Space",
             },
             {
               url: "https://soundcloud.com/jeonsoyeon-music/beam-beam",
@@ -8984,7 +9094,11 @@ var app = (function () {
             {
                 url: "https://soundcloud.com/gi-dle/track-5",
                 answer: "(G)I-DLE - Tall Trees",
-              },
+            },
+            {
+                url: "https://soundcloud.com/gi-dle/bloom",
+                answer: "(G)I-DLE - Bloom",
+            },
             {
               url: "https://soundcloud.com/l2shareost42/miyeon-g-idle-someday-moonshine-ost-part-8",
               answer: "MIYEON - Someday",
@@ -9018,7 +9132,7 @@ var app = (function () {
               answer: "MINNIE, WENGIE - EMPIRE"
             },
             {
-              url: "https://soundcloud.com/gi-dle/luv-u",
+              url: "https://soundcloud.com/gi-dle/maybe",
               answer: "(G)I-DLE - Maybe",
             },
             {
@@ -9082,6 +9196,10 @@ var app = (function () {
               answer: "(G)I-DLE - LOVE",
             },
             {
+              url: "https://soundcloud.com/miyeon-music/sweet-dream",
+              answer: "MIYEON - Sweet Dream",
+            },
+            {
               url: "https://soundcloud.com/gi-dle/dark-x-file",
               answer: "(G)I-DLE - DARK (X-file)",
             },
@@ -9096,7 +9214,7 @@ var app = (function () {
             {
                 url: "https://soundcloud.com/gi-dle/track-3",
                 answer: "(G)I-DLE - Eyes Roll",
-              },
+            },
             {
               url: "https://soundcloud.com/erl8jj3ogszh/not-cinderella-g-i-dle-yuqi",
               answer: "YUQI - Not Cinderella",
@@ -9158,6 +9276,10 @@ var app = (function () {
               answer: "MIYEON, YUQI - How To Twerk",
             },
             {
+              url: "https://soundcloud.com/gi-dle/neverland",
+              answer: "(G)I-DLE - Neverland",
+            },
+            {
             url: "https://soundcloud.com/jeonsoyeon-music/a-moono-ke-im-ok",
             answer: "JEON SOYEON - A-MOONO-KE (I'm OK)",
             },
@@ -9192,6 +9314,10 @@ var app = (function () {
             {
               url: "https://soundcloud.com/gi-dle/senorita",
               answer: "(G)I-DLE - Senorita",
+            },
+            {
+              url: "https://soundcloud.com/yuqi-sc/red-rover",
+              answer: "YUQI - Red Rover",
             },
           ],
           Pn
